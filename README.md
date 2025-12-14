@@ -1,8 +1,9 @@
 # Basic 2D Player Movement & Interaction
 This project demonstrates core 2D gameplay mechanics built in Unity, focusing on smooth movement, physics-based interactions, and environment awareness.
 
-<p align="center"> <img src="<img width="1155" height="689" alt="Drive_Game" src="https://github.com/user-attachments/assets/75723742-bf93-40da-a1d0-45519e6cd97a" />
-" alt="2D Top-Down Gameplay" width="700"/> </p>
+<img width="1155" height="689" alt="Image" src="https://github.com/user-attachments/assets/2da7d8c0-fcd9-437e-b7bc-5dc31396c143" />
+
+
 
 🕹️ Features Implemented
 
